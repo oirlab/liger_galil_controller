@@ -40,7 +40,7 @@ python3 liger_galil_controller.py -a 192.168.1.10 stepper B
 ```
 
 #### Disable Stepper Motor
-Disable the stepper motor on Axis C.
+Disable the stepper motor on Axis B.
 ```bash
-python3 liger_galil_controller.py -a 192.168.1.10 disable C
+python3 liger_galil_controller.py -a 192.168.1.10 disable B
 ```
